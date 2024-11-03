@@ -1,0 +1,20 @@
+#titulo{
+    font-family: sans-serif;
+    color: #380b61;
+    margin-left: 7%;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+}
+
+input, textarea, button{
+    border-radius: 5px;
+    margin-bottom: 0.2em;
+    box-shadow: 2px 2px 2px rgb(0,0,0,0.2);
+    margin: 5px;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+    margin-bottom: 1em;
+    padding: 0.2em 0.6em;
+}
